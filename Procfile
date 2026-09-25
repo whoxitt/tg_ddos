@@ -1,0 +1,1 @@
+worker: python simple_auth_bot.py
